@@ -1,5 +1,5 @@
 movie:
-  directory: C:/Users/pfniy/movies
+  directory: /tmp/movies
   file-pattern: "*.txt"
   prevent-duplicates: true
   fixed-delay: 5000
